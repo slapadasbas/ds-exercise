@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+venv/
+switrs.sqlite
+transactions_train.csv
