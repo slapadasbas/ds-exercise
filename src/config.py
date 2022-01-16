@@ -3,7 +3,7 @@ class Config:
     DB = "input/transactions.csv"
     
     MODEL_RF = "model/rf_baseline20220115.pkl" 
-    PROBA_TRESHOLD = 0.25
+    PROBA_TRESHOLD = 0.20
     
     SIGVARS = [
         'oldbalanceOrig', 
